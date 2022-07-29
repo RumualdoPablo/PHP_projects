@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #e8eef2;
+    color: #fff;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.visitantes{
+    background: #bb1f35;
+    width: 200px;
+    border-radius: 5px;
+    padding: 30px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+h1{
+    font-weight: normal;
+    text-align: center;
+    margin: 30px 0;
+    color: #0d2c44;
+}
+
+.visitantes .numero{
+    font-weight: normal;
+    font-size: 60px;
+    color: #fff;
+}
